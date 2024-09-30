@@ -2,7 +2,7 @@
 
 Project for simulating payment service provider
 
-## # Setup and configuration for Linux OS local environment
+## Setup and configuration for Linux OS local environment
 
 - The setup procedure is described in the following readme file: https://github.com/vladaj81/payment-app/blob/master/README.md
 
